@@ -1,0 +1,7 @@
+LAN host discovery via ICMP PING application (Android/Windows/Linux/MAC) in Golang using Fyne.io GUI library.
+
+Initialy designed for Android to find IP address of Raspberry PI SBC that is running without a display and I connect my phone in USB tethering mode to control it.
+
+Binaries currently available for Android/Windows.
+
+BTW, icon drawed in Inkscape SVG editor. (I am not a designer)
